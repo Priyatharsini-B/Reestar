@@ -1,0 +1,132 @@
+*{
+    margin:10px;
+}
+.nav{
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav span{
+    color: grey;
+}
+.receipe-one{
+    border: solid 2px black;
+    display:inline-block;
+}
+.receipe-one__title{
+    font-size:10px;
+    text-align:center;
+    width: 130px;
+}
+.receipe-one__desc{
+    font-size:10px;
+    width: 130px;
+    text-align:center;
+}
+.receipe-one__button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.receipe-two{
+    border: solid black 2px;
+    display:inline-block;
+}
+.receipe-two__title{
+    width: 130px;
+    font-size:10px;
+    text-align:center;
+}
+.receipe-two__desc{
+    font-size:10px;
+    width: 130px;
+    text-align:center;
+}
+.receipe-two__button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.receipe-three{
+    border: solid black 2px;
+    display:inline-block;
+}
+.receipe-three__title{
+    width: 130px;
+    font-size:10px;
+    text-align:center;
+}
+.receipe-three__desc{
+    font-size:10px;
+    width: 130px;
+    text-align:center;
+}
+.receipe-three__button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.receipe-four{
+    border: solid black 2px;
+    display:inline-block;
+}
+.receipe-four__title{
+    width: 130px;
+    font-size:10px;
+    text-align:center;
+}
+.receipe-four__desc{
+    font-size:10px;
+    width: 130px;
+    text-align:center;
+}
+.receipe-four__button{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.receipe{
+    text-align: center;
+}
+.contact-form{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.contact-form__table{
+    margin: auto;
+}
+.contact-form__title{
+    text-align: center;
+    padding-top: 20px;
+}
+.contact-form__age{
+    padding: 5px;
+}
+.contact-form__name{
+    padding: 5px;
+}
+.contact-form__email{
+    padding: 5px;
+}
+.contact-form__button{
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+  
+}
